@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Agdasima";
+    src: url('/fonts/Agdasima.woff2') format('woff2'),
+    url('/fonts/Agdasima.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    font-family: "Agdasima", serif;
+    padding: 0;
+    line-height: 1.5;
+    height: 100%;
+    margin: 0;
+}
+
+.agdasima-bold {
+    font-family: "Agdasima", serif;
+    font-weight: 700;
+    font-style: normal;
+}
