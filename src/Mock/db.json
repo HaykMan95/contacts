@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "2",
-      "name": "Jane Doe",
+      "name": "Jane Doe New",
       "username": "janedoe",
       "photo": "https://via.placeholder.com/150",
       "about": "Jane Doe About"
@@ -37,13 +37,6 @@
     },
     {
       "id": "1734615408773",
-      "name": "User",
-      "username": "UserName",
-      "photo": "https://plus.unsplash.com/premium_photo-1692241091702-bc574bf6b720?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "about": "User About"
-    },
-    {
-      "id": "1734617039094",
       "name": "User",
       "username": "UserName",
       "photo": "https://plus.unsplash.com/premium_photo-1692241091702-bc574bf6b720?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
